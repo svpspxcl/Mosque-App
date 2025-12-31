@@ -1,0 +1,46 @@
+.body{
+    background: rgb(0, 51, 0);
+}
+
+.texts{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin-left: 445px;
+    margin-top: 100px;
+    color: white;
+}
+
+.questions{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 405px;
+    font-size: 20px;
+    color: white;
+}
+
+.buttons{
+    color: black;
+    background-color: rgb(158, 158, 158);
+    font-size: 20px;
+    width: 300px;
+    font-family:'Courier New', Courier, monospace;
+    border-style:groove;
+    margin-left: 490px;
+    margin-top: 40px;
+}
+
+.buttons2{
+    color: black;
+    background-color: rgb(158, 158, 158);
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    border-style:groove;
+    margin-left: 600px;
+    margin-top: 40px;
+}
+
+.text2{
+    color: white;
+    font-size: 35px;
+    margin: 10px;
+    
+}
